@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9_PalindromeNumberWithoutExtraSpace", "9_PalindromeNumberWithoutExtraSpace\9_PalindromeNumberWithoutExtraSpace.vcxproj", "{DBD93028-B20D-4E85-8C31-E2618A6F2E25}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009_PalindromeNumber_WithoutUsingExtraSpace", "9_PalindromeNumberWithoutExtraSpace\9_PalindromeNumberWithoutExtraSpace.vcxproj", "{DBD93028-B20D-4E85-8C31-E2618A6F2E25}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "022_ValidPalindromeString_ConderingOnlyAlpaNumericChar_IgnoringCases", "22_ValidPalindromeStringIgnoringCases\22_ValidPalindromeStringIgnoringCases.vcxproj", "{18AC4CF4-BE7C-48F4-8971-DA036AD31CF6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "036_ValidSudoku", "036_ValidSudoku\036_ValidSudoku.vcxproj", "{F70368C6-0432-4446-8AB0-A5C90B12840B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{DBD93028-B20D-4E85-8C31-E2618A6F2E25}.Debug|Win32.Build.0 = Debug|Win32
 		{DBD93028-B20D-4E85-8C31-E2618A6F2E25}.Release|Win32.ActiveCfg = Release|Win32
 		{DBD93028-B20D-4E85-8C31-E2618A6F2E25}.Release|Win32.Build.0 = Release|Win32
+		{18AC4CF4-BE7C-48F4-8971-DA036AD31CF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{18AC4CF4-BE7C-48F4-8971-DA036AD31CF6}.Debug|Win32.Build.0 = Debug|Win32
+		{18AC4CF4-BE7C-48F4-8971-DA036AD31CF6}.Release|Win32.ActiveCfg = Release|Win32
+		{18AC4CF4-BE7C-48F4-8971-DA036AD31CF6}.Release|Win32.Build.0 = Release|Win32
+		{F70368C6-0432-4446-8AB0-A5C90B12840B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F70368C6-0432-4446-8AB0-A5C90B12840B}.Debug|Win32.Build.0 = Debug|Win32
+		{F70368C6-0432-4446-8AB0-A5C90B12840B}.Release|Win32.ActiveCfg = Release|Win32
+		{F70368C6-0432-4446-8AB0-A5C90B12840B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

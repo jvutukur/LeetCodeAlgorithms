@@ -9,7 +9,7 @@
 
 int main(int argc, char *argv[])
 {
-	std::cout << "Enter an integer value";
+	std::cout << "Enter an integer value: ";
 	int num;
 	std::cin >> num;
 

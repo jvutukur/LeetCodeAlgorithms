@@ -11,10 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{DBD93028-B20D-4E85-8C31-E2618A6F2E25}</ProjectGuid>
+    <ProjectGuid>{18AC4CF4-BE7C-48F4-8971-DA036AD31CF6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My9_PalindromeNumberWithoutExtraSpace</RootNamespace>
-    <ProjectName>009_PalindromeNumber_WithoutUsingExtraSpace</ProjectName>
+    <RootNamespace>My22_ValidPalindromeStringIgnoringCases</RootNamespace>
+    <ProjectName>022_ValidPalindromeString_ConderingOnlyAlpaNumericChar_IgnoringCases</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -85,7 +85,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="9_PalindromeNumberWithoutExtraSpace.cpp" />
+    <ClCompile Include="22_ValidPalindromeStringIgnoringCases.cpp" />
     <ClCompile Include="Solution.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
